@@ -11,7 +11,7 @@ public class SignupPage extends JFrame implements ActionListener {
 
     public SignupPage() {
         setTitle("Signup Page");
-        setSize(400, 300);
+        setSize(40000, 30000);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLocationRelativeTo(null);
 
